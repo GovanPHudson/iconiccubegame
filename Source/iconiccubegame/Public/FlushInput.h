@@ -4,16 +4,15 @@
 
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
-#include "BPFL_FlushInput.generated.h"
+#include "FlushInput.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class ICONICCUBEGAME_API UBPFL_FlushInput : public UBlueprintFunctionLibrary
+class ICONICCUBEGAME_API UFlushInput : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
-	UFUNCTION(BlueprintCallable)
+	UFUNCTION(BlueprintCallable, Category = "Input")
 	static void flushInputs(const APlayerController* PlayerController);
 };
-
