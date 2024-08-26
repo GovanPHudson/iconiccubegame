@@ -15,6 +15,4 @@ class ICONICCUBEGAME_API UCharacterSetBase : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 	UFUNCTION(BlueprintCallable, Category = "Character")
 	static void CharacterSetBase(ACharacter* Character, UPrimitiveComponent* Primitive, bool Reset);
-	UFUNCTION(BlueprintCallable, Category = "Character")
-	static UPrimitiveComponent CharacterGetBase(ACharacter* Character);
 };
