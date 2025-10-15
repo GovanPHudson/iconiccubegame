@@ -16,7 +16,7 @@
 		"Vsync": false,
 		"HUD": true,
 		"Fullscreen": 2,
-		"ResolutionX": 1140,
+		"ResolutionX": 958,
 		"ResolutionY": 923,
 		"TextSpeed": 1,
 		"Style": 2
@@ -310,6 +310,6 @@
 	},
 	"Meta":
 	{
-		"LastSavedSlot": "SaveA"
+		"LastSavedSlot": "SaveC"
 	}
 }
