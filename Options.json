@@ -284,7 +284,7 @@
 				}
 			}
 		},
-		"GamepadStyle": 2
+		"GamepadStyle": 0
 	},
 	"Camera":
 	{
@@ -310,6 +310,6 @@
 	},
 	"Meta":
 	{
-		"LastSavedSlot": "SaveC"
+		"LastSavedSlot": "SaveB"
 	}
 }
