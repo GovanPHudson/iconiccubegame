@@ -16,10 +16,10 @@
 		"Vsync": false,
 		"HUD": true,
 		"Fullscreen": 2,
-		"ResolutionX": 958,
-		"ResolutionY": 923,
+		"ResolutionX": 1556,
+		"ResolutionY": 826,
 		"TextSpeed": 1,
-		"Style": 2
+		"Style": 1
 	},
 	"Audio":
 	{
@@ -290,8 +290,8 @@
 	{
 		"InvertX": false,
 		"InvertY": false,
-		"PitchToggle": true,
-		"SenseX": 0.80000001192092896,
+		"PitchToggle": false,
+		"SenseX": 0.56702876091003418,
 		"SenseY": 0.5,
 		"Smooth": 0.5,
 		"Pitch": 0.69999998807907104
