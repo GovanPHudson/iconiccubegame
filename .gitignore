@@ -16,3 +16,4 @@ Content/Developers
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
 Options.json
+*.json
